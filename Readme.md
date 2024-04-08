@@ -1,6 +1,4 @@
-=========================================
-Problem statement
-=========================================
+# Problem statement
 A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
 
 A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state.
@@ -14,9 +12,8 @@ They have contracted a consulting company to understand the factors on which the
 
 Based on various meteorological surveys and people's styles, the service provider firm has gathered a large dataset on daily bike demands across the American market based on some factors.
 
-=========================================
-Dataset characteristics
-=========================================	
+# Dataset characteristics
+
 day.csv have the following fields:
 	
 	- instant: record index
@@ -40,9 +37,8 @@ day.csv have the following fields:
 	- registered: count of registered users
 	- cnt: count of total rental bikes including both casual and registered
 	
-=========================================
-License
-=========================================
+
+# License
 Use of this dataset in publications must be cited to the following publication:
 
 [1] Fanaee-T, Hadi, and Gama, Joao, "Event labeling combining ensemble detectors and background knowledge", Progress in Artificial Intelligence (2013): pp. 1-15, Springer Berlin Heidelberg, doi:10.1007/s13748-013-0040-3.
@@ -60,8 +56,8 @@ Use of this dataset in publications must be cited to the following publication:
 	pages={1-15}
 }
 
-=========================================
-Contact
-=========================================
-	
+# Contact
 For further information about this dataset please contact Hadi Fanaee-T (hadi.fanaee@fe.up.pt)
+
+# Contributer
+ - Vishrut Mishra
